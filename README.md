@@ -8,7 +8,7 @@ Would you like to contribute? Read [our contribution guidelines](./CONTRIBUTING.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NodeJS with Gulp](https://github.com/autodesk-forks/swagger-express/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/autodesk-forks/swagger-express/actions/workflows/npm-gulp.yml)
 ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-[![npm version](https://badgen.net/npm/v/autodesk-forks-swagger-express)](https://www.npmjs.com/package/autodesk-forks-swagger-express)
+[![npm version](https://badgen.net/npm/v/autodesk-forks-swagger-express-mw)](https://www.npmjs.com/package/autodesk-forks-swagger-express)
 [![contributors](https://img.shields.io/github/contributors/autodesk-forks/swagger-express)](https://github.com/autodesk-forks/swagger-express/graphs/contributors)
 
 ## :book: Resources
