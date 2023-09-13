@@ -15,6 +15,12 @@ straightforward as possible.
 
 ### Fixed
 
+## [0.9.0] - 2023-09-13
+
+### Changed
+
+- [chore: upgrade deps](https://github.com/autodesk-forks/swagger-express/pull/6)
+
 ## [0.8.0] - 2023-05-11
 
 ### Changed
