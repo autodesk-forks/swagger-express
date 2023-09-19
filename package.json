@@ -1,6 +1,6 @@
 {
   "name": "autodesk-forks-swagger-express-mw",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Swagger loader and middleware for express",
   "keywords": [
     "swagger",
@@ -41,6 +41,6 @@
     "coverage": "nyc mocha -R spec test test/lib"
   },
   "dependencies": {
-    "autodesk-forks-swagger-node-runner": "0.8.1"
+    "autodesk-forks-swagger-node-runner": "0.9.0"
   }
 }
